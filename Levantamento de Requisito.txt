@@ -1,0 +1,23 @@
+	Levantamento de Requisitos
+
+ LEMBRANDO QUE QUANDO TIVER A REGRA DE NEGÓCIO, AS VEZES NÃO ESTA TOTALMENTE CERTA
+
+*Um aluno só pode estar matriculado em um curso por vez
+*Alunos possuem um código (RA)
+*Cursos são composto por disciplinas
+*Cada disciplina terá no maximo 30 alunos por turma 
+*As disciplinas podem ser obrigatória ou optavivas, dependendo do curso
+*As disciplinas pertecem a departamentos
+*Cada disciplina possui um código de identificação 
+*Alunos podem trancar a matrícula,não estando então matriculados em nenhuma disciplina no semestre
+*A faculdade terá no máximo 3.000 alunos matriculados simultaneamente, em 10 cursos distintos 
+*Entram 300 alunos novos por ano 
+*Existem 90 disciplicinas no total disponiveis 
+*Um historico escolar  traz todas as disciplinas cursadas por um aluno , incluindo a nota final
+*Professores podem ser cadastrados mesmo sem lecionar disciplinas
+*Existem 40 professores na escola
+*Cada Professor irá lecionar no máximo 4 disciplinas diferentes 
+*Professores tem seu proprio código 
+*Professor é vinculado ao seu departamento 
+
+ 
